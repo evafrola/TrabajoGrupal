@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(255, 255, 165);
+    background-color: rgba(73, 47, 188, 0.592);
     font-family: sans-serif;
 }
 
@@ -15,7 +15,7 @@ h1 {
 }
 
 .image {
-    border: 5px solid green;
+    border: 5px solid rgb(26, 8, 141);
     border-radius: 10px;
     max-width: 100%;
     height: auto;
