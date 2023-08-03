@@ -1,5 +1,6 @@
 body {
     background-color: rgb(255, 255, 165);
+<<<<<<< HEAD
     font-family: sans-serif;
 }
 
@@ -14,11 +15,25 @@ body {
     border-radius: 10px;
     max-width: 100%;
     height: auto;
+=======
+}
+
+h1 {
+    text-transform: uppercase;
+    border: 1px solid black;
+}
+
+.image{
+    border: 5px solid green;
+    border-radius: 10px;
+    height: 400px;
+>>>>>>> b534da0001cc5a0a54e32755db6732ab591b8f18
 }
 
 .link-button {
     text-decoration: none;
     color: black;
+<<<<<<< HEAD
     border: 3px inset #4682A9;
     background-color: #A1C2F1;
     padding: 5px;
@@ -28,3 +43,11 @@ body {
 p a{
     color: red;
 }
+=======
+    border: 1px solid gray;
+    background-color: #f2f2f2;
+    padding: 5px;
+    border-radius: 5px;
+    box-shadow: 2px 3px #888888;
+}
+>>>>>>> b534da0001cc5a0a54e32755db6732ab591b8f18
